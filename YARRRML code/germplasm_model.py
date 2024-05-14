@@ -1,3 +1,10 @@
+'''
+Author: Elena Aguayo Jara (elena.aguayo@protonmail.com, elena.aguayo@estudiante.uam.es)
+Universidad Autónoma de Madrid - Facultad de Medicina
+Center for Plant Biotechnology and Genomics (CBGP-UPM-INIA/CSIC)
+15-05-2024
+'''
+
 from embuilder.builder import EMB
 """GERMPLASM MODEL"""
 
