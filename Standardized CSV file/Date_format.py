@@ -1,8 +1,11 @@
 """
 Master's thesis: Libraries and support tooling for FAIRification of Germplasm databases
-Author: Elena Aguayo Jara
+Author: Elena Aguayo Jara (elena.aguayo@protonmail.com, elena.aguayo@estudiante.uam.es)
+Universidad Autónoma de Madrid - Facultad de Medicina
+Center for Plant Biotechnology and Genomics (CBGP-UPM-INIA/CSIC)
 Date: 20-03-2024
 """
+
 import pandas as pd
 
 # Download the CSV file
