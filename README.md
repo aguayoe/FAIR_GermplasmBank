@@ -29,15 +29,15 @@ MAP concepts into ontologies/
 
 ## Description
 
-- 'Semantic Models/': Contains the conceptual models used as input for the mapping process.
-- 'CSV/': Contains the CSV files used as data sources for the mapping process.
-- 'Images/': Contains visual representations (PNG files) of the conceptual models.
-- 'YARRRML mapping models/': Contains the YARRRML mapping rules (YAML and Python files) used to transform the conceptual models into ontologies.
-- 'Standardized CSV file/': Contains a Python script for standardizing the date format in the CSV files.
+- `Semantic Models/`: Contains the conceptual models used as input for the mapping process.
+- `CSV/`: Contains the CSV files used as data sources for the mapping process.
+- `Images/`: Contains visual representations (PNG files) of the conceptual models.
+- `YARRRML mapping models/`: Contains the YARRRML mapping rules (YAML and Python files) used to transform the conceptual models into ontologies.
+- `Standardized CSV file/`: Contains a Python script for standardizing the date format in the CSV files.
 
 ## Usage
 
-1. Ensure you have the necessary dependencies installed (e.g., Python, YARRRML, EMbuilder, etc.). See 'requirements.txt'.
+1. Ensure you have the necessary dependencies installed (e.g., Python, YARRRML, EMbuilder, etc.). See `requirements.txt`.
 2. Run the mapping process using the provided scripts or tools.
 
 This repository contains the code and resources for mapping conceptual models into ontologies using YARRRML mapping rules.
