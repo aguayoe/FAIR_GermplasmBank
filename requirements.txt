@@ -1,0 +1,6 @@
+Requirements to use Embuilder with Python
+
+pip install EMbuilder
+pip install Pyyaml
+pip install Pyperseo
+pip install rdflib
