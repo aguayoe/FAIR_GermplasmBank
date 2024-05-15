@@ -3,6 +3,7 @@ This repository contanins the underlying tools, vocabularies, and models that wi
 
 ## File Structure
 MAP concepts into ontologies/
+MAP concepts into ontologies/
 ├── Semantic Models/
 ├── CSV/
 │   ├── README.md
