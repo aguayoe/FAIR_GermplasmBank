@@ -5,11 +5,11 @@ This repository contanins the underlying tools, vocabularies, and models that wi
 MAP concepts into ontologies/
 ├── Semantic Models/
 ├── CSV/
-│   ├── germplasm.csv
+│   ├── README.md
 │   ├── administrative.csv
 │   └── location.csv
 ├── Images/
-│   ├── Administration model.png
+│   ├── Administration_model.png
 │   ├── Germplasm model.png
 │   └── Location model.png
 ├── YARRRML mapping models/
@@ -22,6 +22,10 @@ MAP concepts into ontologies/
 │   ├── location_yarrrml.pre-yaml
 │   ├── test2_yarrrml.pre-yaml
 │   ├── test_yarrrml.pre-yaml
+│   ├── Administration_model.drawio
+│   ├── Diagrama sin titulo.drawio
+│   ├── Germplasm model.drawio
+│   └── Location model.drawio
 ├── Standardized CSV file/
 │   └── Date_format.py
 ├── LICENSE
