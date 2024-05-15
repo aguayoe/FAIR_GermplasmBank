@@ -18,12 +18,5 @@ This repository contanins the underlying tools, vocabularies, and models that wi
 
 - `README.md`: This file, providing an overview of the project and its file structure.
 
-## Usage
-
-1. Ensure you have the necessary dependencies installed (e.g., Python, YARRRML, etc.).
-2. Modify the YARRRML mapping rules in the `YARRRML mapping models/` directory as needed.
-3. Run the mapping process using the provided scripts or tools.
-4. The resulting ontologies will be generated based on the mapping rules and the input data sources.
-
 ## Contact
 If you encounter any issues or have suggestions for improvements, please contact me: elena.aguayo@estudiante.uam.es, elena.aguayo@protonmail.com
