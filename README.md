@@ -7,6 +7,7 @@ This repository contanins the underlying tools, vocabularies, and models that wi
 - `CSV/`: Contains the CSV files used as data sources for the mapping process.
 - `Images/`: Contains visual representations (PNG files) of the conceptual models.
 - `YARRRML mapping models/`: Contains the YARRRML mapping rules (YAML and Python files) used to transform the conceptual models into ontologies.
+- `requirements.txt`: Contains the steps to install the EMbuilder.
 - `Standardized CSV file/`: Contains a Python script for standardizing the date format in the CSV files.
 
 ## Usage
@@ -14,46 +15,7 @@ This repository contanins the underlying tools, vocabularies, and models that wi
 1. Ensure you have the necessary dependencies installed (e.g., Python, YARRRML, EMbuilder, etc.). See `requirements.txt`.
 2. Run the mapping process using the provided scripts or tools.
 
-This repository contains the code and resources for mapping conceptual models into ontologies using YARRRML mapping rules.
 
-## File Structure
-MAP concepts into ontologies/
-├── Semantic Models/
-├── CSV/
-│   ├── README.md
-│   ├── administrative.csv
-│   └── location.csv
-├── Images/
-│   ├── Administration_model.png
-│   ├── Germplasm model.png
-│   └── Location model.png
-├── YARRRML mapping models/
-│   ├── admin_model.py
-│   ├── administrative.yaml
-│   ├── administrative_yarrrml.pre-yaml
-│   ├── germplasm_model.py
-│   ├── location.yaml
-│   ├── location_model.py
-│   ├── location_yarrrml.pre-yaml
-│   ├── test2_yarrrml.pre-yaml
-│   ├── test_yarrrml.pre-yaml
-│   ├── Administration_model.drawio
-│   ├── Diagrama sin titulo.drawio
-│   ├── Germplasm model.drawio
-│   └── Location model.drawio
-├── Standardized CSV file/
-│   └── Date_format.py
-├── LICENSE
-└── README.md
-
-## Description
-
-- `Semantic Models/`: Contains the conceptual models used as input for the mapping process.
-- `CSV/`: Contains the CSV files used as data sources for the mapping process.
-- `Images/`: Contains visual representations (PNG files) of the conceptual models.
-- `YARRRML mapping models/`: Contains the YARRRML mapping rules (YAML and Python files) used to transform the conceptual models into ontologies.
-- `Standardized CSV file/`: Contains a Python script for standardizing the date format in the CSV files.
-- `LICENSE`: The license file for the project.
 - `README.md`: This file, providing an overview of the project and its file structure.
 
 ## Usage
