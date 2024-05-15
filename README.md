@@ -1,37 +1,6 @@
 # Libraries and Support Tooling for FAIRification of Germplasm Databases
 This repository contanins the underlying tools, vocabularies, and models that will be used to execute the FLAIR-GG Network, which is part of the FLAIR-GG Project, a collaborative project between the César Gómez-Campo Germplasm Bank of the Universidad Politécnica de Madrid (BGV-UPM) and CBGP-INIA-CSIC: FLAIR-GG-TED2021-130788B-I00. It is funded by MCIN/AEI /10.13039/501100011033 and by European Union Next Generation EU/ PRTR. This project aims to create a FAIR - Findable, Accessible, Interoperable, Reusable - way to represent seedbank data and improve the public metadata describing all participating seedbanks. All germplasm resources will be linked through a shared portal called the "Virtual Platform", enabling combined searches across all participants within the FLAIR-GG Network. This is also thanks to Universidad Autónoma de Madrid.
 
-## File Structure
-MAP concepts into ontologies/
-MAP concepts into ontologies/
-├── Semantic Models/
-├── CSV/
-│   ├── README.md
-│   ├── administrative.csv
-│   └── location.csv
-├── Images/
-│   ├── Administration_model.png
-│   ├── Germplasm model.png
-│   └── Location model.png
-├── YARRRML mapping models/
-│   ├── admin_model.py
-│   ├── administrative.yaml
-│   ├── administrative_yarrrml.pre-yaml
-│   ├── germplasm_model.py
-│   ├── location.yaml
-│   ├── location_model.py
-│   ├── location_yarrrml.pre-yaml
-│   ├── test2_yarrrml.pre-yaml
-│   ├── test_yarrrml.pre-yaml
-│   ├── Administration_model.drawio
-│   ├── Diagrama sin titulo.drawio
-│   ├── Germplasm model.drawio
-│   └── Location model.drawio
-├── Standardized CSV file/
-│   └── Date_format.py
-├── LICENSE
-└── README.md
-
 ## Description
 
 - `Semantic Models/`: Contains the conceptual models used as input for the mapping process.
