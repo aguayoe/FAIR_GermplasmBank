@@ -43,9 +43,9 @@ This repository contains the underlying resources used to support the **FAIRific
 
 ### Prerequisites
 - Python (recommended: 3.10+)
-- Tools depending on your workflow (e.g., **YARRRML**, EMBuilder, etc.)
+- Tools (e.g., **YARRRML**, EMBuilder, etc.)
 
-### Install Python dependencies (if needed)
+### Install Python dependencies 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
@@ -79,4 +79,4 @@ For questions or suggestions:
 - elena.aguayo@protonmail.com
 
 ## License
-MIT License. See `LICENSE`.
+MIT License. 
